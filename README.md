@@ -4,9 +4,9 @@
 * Single Page Application
 * Save your list to database with your username
 
-[Live](https://mytop10movies.herokuapp.com/tayfurunal) 
+[Live](https://mytop10movies.herokuapp.com) 
 and 
-[List Example /tayfurunal] (https://mytop10movies.herokuapp.com/tayfurunal)
+[List Example /tayfurunal](https://mytop10movies.herokuapp.com/tayfurunal) 
 
 ### Technologies
 
